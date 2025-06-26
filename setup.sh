@@ -1,1 +1,1 @@
-sudo apt install -y iverilog
+sudo apt install -y iverilog 
